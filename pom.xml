@@ -55,8 +55,7 @@
                         </goals>
                     </execution>
                     <execution>
-                        <id>check</id>
-                        <phase>verify</phase>
+                        <id>default-check</id>
                         <goals>
                             <goal>check</goal>
                         </goals>
